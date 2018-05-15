@@ -1,4 +1,5 @@
 '''This code was generated from the notebook 2018-05-13-viterbi-message-passing.ipynb'''
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -72,4 +73,3 @@ most_likely_states = viterbi(
 )
 
 print(most_likely_states)
-

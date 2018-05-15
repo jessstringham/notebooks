@@ -1,4 +1,5 @@
 '''This code was generated from the notebook 2018-05-02-hmm-alpha-recursion.ipynb'''
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -188,4 +189,3 @@ alphas = alpha_recursion(
 )
 
 assert np.all(np.isclose(np.sum(alphas, axis=1), 1))
-
