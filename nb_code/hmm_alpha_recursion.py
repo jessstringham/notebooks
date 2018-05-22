@@ -1,8 +1,5 @@
 '''This code was generated from the notebook 2018-05-02-hmm-alpha-recursion.ipynb'''
 
-import numpy as np
-import matplotlib.pyplot as plt
-
 width = 6
 height = 5
 num_hidden_states = width * height
