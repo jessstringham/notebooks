@@ -69,3 +69,4 @@
 {"weight": 0.5, "first": "black_medicine", "last": "machina_espresso_uni", "metric": "laptop"}
 {"weight": 0.5, "first": "artisan_broughton", "last": "twelve_triangles_portobello", "metric": "laptop"}
 {"weight": 1.0, "first": "soderberg_meadows", "last": "soderberg_broughton", "metric": "laptop"}
+{"weight": 1.0, "first": "artisan_broughton", "last": "levels", "metric": "reading"}
