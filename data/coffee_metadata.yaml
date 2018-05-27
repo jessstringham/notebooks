@@ -1,0 +1,79 @@
+- name: BrewLab
+  id: brewlab
+  location: university
+
+- name: Cult Espresso
+  id: cult
+  location: university
+
+- name: Wellington
+  id: wellington
+  location: new_town
+
+- name: Filament
+  id: filament
+  location: meadows
+
+- name: Artisan Roast (Broughton)
+  id: artisan_broughton
+  location: meadows
+
+- name: Artisan Roast (Stockbridge)
+  id: artisan_stockbridge
+  location: stockbridge
+
+- name: Twelve Triangles
+  id: twelve_triangles_portobello
+  location: portobello
+
+- name: Söderberg (Meadows)
+  id: soderberg_meadows
+  location: university
+
+- name: Söderberg (Broughton)
+  id: soderberg_broughton
+  location: new_town
+
+- name: Fortitude
+  id: fortitude
+  location: new_town
+
+- name: Black Medicine
+  id: black_medicine
+  location: university
+
+- name: Press
+  id: press
+  location: university
+
+- name: The Milkman
+  id: milkman
+  location: old_town
+
+- name: Castello
+  id: castello
+  location: new_town
+
+- name: Machina Espresso (Meadows)
+  id: machina_espresso_bruntsfield
+  location: bruntsfield
+
+- name: Machine espresso close
+  id: machina_espresso_uni
+  location: university
+
+- name: Cairngorm close
+  id: cairngorm_george
+  location: new_town
+
+- name: Cairngorn (Queensferry)
+  id: cairngorm
+  location: west_end
+
+- name: Lowdown
+  id: lowdown
+  location: new_town
+
+- name: Levels
+  id: levels
+  location: cowgate
