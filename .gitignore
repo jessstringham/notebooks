@@ -3,3 +3,4 @@ migrated
 .ipynb_checkpoints
 __pycache__
 data/*
+nbconfig
