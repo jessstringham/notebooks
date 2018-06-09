@@ -4,3 +4,4 @@ numpy
 pymc3
 scipy
 sklearn
+tensorflow
