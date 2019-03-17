@@ -1,7 +1,10 @@
 jupyter
+keras
 matplotlib
 numpy
+pillow
 pymc3
+requests
 scipy
 sklearn
 tensorflow
