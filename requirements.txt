@@ -6,5 +6,5 @@ pillow
 pymc3
 requests
 scipy
-sklearn
+scikit-learn
 tensorflow
